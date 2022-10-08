@@ -1,0 +1,8 @@
+name: StaffWarps
+version: '1.1'
+main: me.woefie.staffwarps.StaffWarps
+api-version: 1.19
+authors: [ Woefie ]
+description: Warps only staff can acces.
+commands:
+  staffwarp:
